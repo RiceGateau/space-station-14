@@ -1,0 +1,17 @@
+==============================================================================
+PROPRIETARY LICENSE - ALL RIGHTS RESERVED
+==============================================================================
+Copyright (c) 2026 [Rice_Gateau]
+
+All unique source code, scripts, files, and assets within this directory and
+all of its subdirectories are proprietary and confidential.
+
+1. RESTRICTIONS
+---------------
+You are strictly prohibited from copying, modifying, or redistributing this code
+in any format, or incorporating it into other forks of Space Station 14.
+
+2. ENFORCEMENT
+--------------
+This folder constitutes an explicit exception to the repository's root MIT license
+agreement. Unauthorized reproduction or distribution will result in legal action.

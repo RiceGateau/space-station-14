@@ -1,3 +1,23 @@
+==============================================================================
+GLOBAL LICENSE NOTICE: MIXED REPOSITORY
+==============================================================================
+
+This repository contains a modified fork of Space Station 14 and Robust Toolbox.
+It operates under a dual-licensing structure to separate open-source base components
+from our team's proprietary modifications.
+
+1. UPSTREAM BASE CODE & ENGINE
+------------------------------
+All original source code from the Space Wizards Federation (including Robust Toolbox
+and base SS14 game files) remains governed by the MIT License. (See full text in ).
+
+2. PROPRIETARY CODE & CUSTOM MECHANICS EXCEPTION
+------------------------------------------------
+All custom source code and systems within the directory `/[Z-Fatalis]/`
+are strictly EXCLUDED from the MIT License. All files inside that directory are
+proprietary, closed-source, and all rights are reserved.
+
+
 MIT License
 
 Copyright (c) 2017-2026 Space Wizards Federation
